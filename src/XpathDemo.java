@@ -16,7 +16,9 @@ public class XpathDemo {
         driver.findElement(By.xpath("//input[@name='q']")).sendKeys("Automation Queen",Keys.ENTER);
         Thread.sleep(2000);
 
+        
         driver.findElement(By.xpath("//a[href='/images']")).click();
+
 
         driver.navigate().to("https://www.bing.com/images");
 
