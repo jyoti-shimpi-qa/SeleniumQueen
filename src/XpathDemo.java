@@ -20,7 +20,7 @@ public class XpathDemo {
         driver.findElement(By.xpath("//a[href='/images']")).click();
 
 
-        driver.navigate().to("https://www.bing.com/images");
+        
 
         Thread.sleep(3000);
         driver.quit();
