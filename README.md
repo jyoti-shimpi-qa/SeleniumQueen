@@ -1,23 +1,23 @@
-<<<<<<< HEAD
-## Getting Started
+# SeleniumQueen 👑
+### QA Automation Portfolio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Hi! I am Jyoti. This is my QA Automation Portfolio focused on Selenium with Java, SQL, and API Testing.
 
-## Folder Structure
+## 📁 What's Inside This Repository?
 
-The workspace contains two folders by default, where:
+**1. Selenium + Java**
+- `JavaBasics.java` - Core Java Concepts for Automation
+- `LoopQueen.java` - Loops used in Test Automation
+- `XpathDemo.java` - Selenium XPath Locators Practice
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**2. SQL**
+- `queries.sql` - Common SQL Interview Queries for QA: SELECT, JOIN, GROUP BY, WHERE
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**3. API Testing**
+- `APIs.json` - Postman Collection for REST API Testing with GET and POST requests
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🎯 Technical Skills
+Selenium WebDriver | Core Java | TestNG | SQL | Postman | Git & GitHub | API Testing | Xpath
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# SeleniumQueen
-My Selenium + Java practice code
->>>>>>> 1e00b69784c30051daf60ce2736a6db0eca609dd
+Thank you for visiting my repository! 😊
