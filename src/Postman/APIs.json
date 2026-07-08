@@ -1,0 +1,16 @@
+{
+    "name":"Queen API collection",
+     "requests": [
+      {
+        "name":"Get ALL User",
+        "method":"GET",
+        "url":"https://api.example.com/users"
+      },
+      {
+        "name": "Create User",
+        "method": "POST",
+        "url":"https://api.example.com/users",
+        "body":{"name":"Queen","role":"QA"}
+      }
+     ]
+}
